@@ -1,0 +1,12 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tictactoe.js",
+  "scripts": {
+    "start": "node tictactoe.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
