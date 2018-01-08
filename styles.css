@@ -2,7 +2,6 @@
 	width: 640px;
 	height: 640px;
 	background: whitesmoke;
-	margin: auto;
 }
 
 .cell {
@@ -11,6 +10,17 @@
 	height: 200px;
 	display: inline-block;
 }
+
+.circle {
+  font-size: 20px;
+  display: inline-block;
+}
+
+.cross {
+  font-size: 20px;
+  display: inline-block;
+}
+
 body {
 	background: grey;
 }
